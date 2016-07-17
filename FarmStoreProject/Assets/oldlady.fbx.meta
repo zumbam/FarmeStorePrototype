@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: aa572761863efa84cae38aab1ccb9cf6
+timeCreated: 1468768314
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bob02.objMesh
+    100002: CMU compliant skeleton
+    100004: female1605.objMesh
+    100006: Head
+    100008: Hips
+    100010: LeftArm
+    100012: LeftFingerBase
+    100014: LeftFoot
+    100016: LeftForeArm
+    100018: LeftHand
+    100020: LeftHandFinger1
+    100022: LeftLeg
+    100024: LeftShoulder
+    100026: LeftToeBase
+    100028: LeftUpLeg
+    100030: LHipJoint
+    100032: low-poly.objMesh
+    100034: LowerBack
+    100036: LThumb
+    100038: male_worksuit01.objMesh
+    100040: Neck
+    100042: Neck1
+    100044: //RootNode
+    100046: RHipJoint
+    100048: RightArm
+    100050: RightFingerBase
+    100052: RightFoot
+    100054: RightForeArm
+    100056: RightHand
+    100058: RightHandFinger1
+    100060: RightLeg
+    100062: RightShoulder
+    100064: RightToeBase
+    100066: RightUpLeg
+    100068: RThumb
+    100070: Spine
+    100072: Spine1
+    400000: bob02.objMesh
+    400002: CMU compliant skeleton
+    400004: female1605.objMesh
+    400006: Head
+    400008: Hips
+    400010: LeftArm
+    400012: LeftFingerBase
+    400014: LeftFoot
+    400016: LeftForeArm
+    400018: LeftHand
+    400020: LeftHandFinger1
+    400022: LeftLeg
+    400024: LeftShoulder
+    400026: LeftToeBase
+    400028: LeftUpLeg
+    400030: LHipJoint
+    400032: low-poly.objMesh
+    400034: LowerBack
+    400036: LThumb
+    400038: male_worksuit01.objMesh
+    400040: Neck
+    400042: Neck1
+    400044: //RootNode
+    400046: RHipJoint
+    400048: RightArm
+    400050: RightFingerBase
+    400052: RightFoot
+    400054: RightForeArm
+    400056: RightHand
+    400058: RightHandFinger1
+    400060: RightLeg
+    400062: RightShoulder
+    400064: RightToeBase
+    400066: RightUpLeg
+    400068: RThumb
+    400070: Spine
+    400072: Spine1
+    4300000: female1605.objMesh
+    4300002: bob02.objMesh
+    4300004: low-poly.objMesh
+    4300006: male_worksuit01.objMesh
+    9500000: //RootNode
+    13700000: bob02.objMesh
+    13700002: female1605.objMesh
+    13700004: low-poly.objMesh
+    13700006: male_worksuit01.objMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
