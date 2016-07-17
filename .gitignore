@@ -14,6 +14,12 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+#unity metas
+*.meta
+*.prefab.meta
+*.material.meta
+*.tga.meta
+
 # Windows shortcuts
 *.lnk
 
@@ -48,3 +54,4 @@ Temporary Items
 
 FarmStoreProject/Library/metadata/
 FarmStoreProject/Library/ShaderCache/
+

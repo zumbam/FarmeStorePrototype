@@ -1,0 +1,46 @@
+# Written by MakeHuman 1.1.0
+version v1.1.0
+tags oldlady
+camera 12.5 351.0 1.0 0.803678703806 -0.193014817432 2.0375
+modifier torso/torso-vshape-decr|incr 0.334000
+modifier measure/measure-neck-height-decr|incr 0.184000
+modifier macrodetails-universal/Muscle 0.218000
+modifier macrodetails/African 0.109000
+modifier macrodetails-proportions/BodyProportions 0.599000
+modifier torso/torso-scale-horiz-decr|incr 0.224000
+modifier breast/nipple-point-decr|incr 1.000000
+modifier torso/torso-trans-backward|forward 0.552000
+modifier macrodetails/Gender 0.000000
+modifier torso/torso-scale-vert-decr|incr 0.292000
+modifier head/head-angle-in|out 0.156000
+modifier macrodetails-height/Height 0.694000
+modifier breast/BreastSize 0.735000
+modifier torso/torso-muscle-dorsi-decr|incr 0.564000
+modifier torso/torso-trans-down|up -0.048000
+modifier macrodetails/Age 1.000000
+modifier breast/BreastFirmness 0.170000
+modifier macrodetails/Asian 0.109000
+modifier breast/breast-point-decr|incr -0.006000
+modifier measure/measure-neck-circ-decr|incr 0.564000
+modifier head/head-oval 0.327000
+modifier head/head-fat-decr|incr 0.130000
+modifier head/head-age-decr|incr 1.000000
+modifier macrodetails/Caucasian 0.782000
+modifier torso/torso-scale-depth-decr|incr 0.374000
+modifier breast/nipple-size-decr|incr 1.000000
+modifier head/head-round 0.524000
+modifier breast/breast-dist-decr|incr 0.006000
+modifier torso/torso-trans-in|out -0.238000
+modifier macrodetails-universal/Weight 0.653000
+proxy female1605 e7cb8171-845e-42b0-a109-e6e8c8a61f9d
+hair bob02 cd7840cf-b340-49e9-a505-8a5a22a86db2
+skeleton cmu_mb.mhskel
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+pose standing04.bvh
+clothes male_worksuit01 07ebc11b-c0ca-4c72-8176-1830b5803ce2
+clothesHideFaces True
+expression smile01.mhpose
+skinMaterial skins/default.mhmat
+material bob02 cd7840cf-b340-49e9-a505-8a5a22a86db2 bob02.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+subdivide True
