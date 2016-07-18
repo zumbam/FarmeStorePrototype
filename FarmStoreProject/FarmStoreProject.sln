@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{297B0AB4-5510-0E96-BFBB-2BA7E7C2DC56}") = "FarmStoreProject", "Assembly-CSharp-firstpass.csproj", "{CC8AB2A0-39F7-7DC8-6409-8F4BE52302EF}"
 EndProject
+Project("{297B0AB4-5510-0E96-BFBB-2BA7E7C2DC56}") = "FarmStoreProject", "Assembly-CSharp.csproj", "{792E4348-B161-CAB4-E3B4-22D74328B527}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{CC8AB2A0-39F7-7DC8-6409-8F4BE52302EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC8AB2A0-39F7-7DC8-6409-8F4BE52302EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC8AB2A0-39F7-7DC8-6409-8F4BE52302EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792E4348-B161-CAB4-E3B4-22D74328B527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792E4348-B161-CAB4-E3B4-22D74328B527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792E4348-B161-CAB4-E3B4-22D74328B527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792E4348-B161-CAB4-E3B4-22D74328B527}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
